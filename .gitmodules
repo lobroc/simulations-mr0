@@ -1,0 +1,3 @@
+[submodule "aztek/AZTEK"]
+	path = aztek/AZTEK
+	url = https://github.com/BioMaps-MRI/AZTEK.git

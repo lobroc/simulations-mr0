@@ -1,0 +1,14 @@
+{
+    "B0": 3.0, // T
+    "max_slew": 600.0, // T/m/s
+    "max_grad": 0.06, // T/m
+    "block_duration_raster": 2e-6, // s
+    "rf_raster_time": 2e-6, // s
+    "adc_raster_time": 2e-6, // s
+    "grad_raster_time": 8e-6, // s
+    "fov": [0.20, 0.30, 0.30], // m
+    "rf_dead_time": 0, // s
+    "rf_ringdown_time": 0, // s
+    "adc_dead_time": 0, // s
+    "adc_oversampling": 2 // no unit
+}
